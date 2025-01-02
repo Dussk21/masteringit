@@ -1,6 +1,6 @@
 ## Welcome to Git!
 
-- This is coming from 'div-ibrahim'
+- This is coming directly from 'div-ibrahim'
 
 - i am adding this from 'feature'
 
