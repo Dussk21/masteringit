@@ -1,7 +1,5 @@
-## Hey everyone! welcome to my Git guide. 
+##Hello, Git!
 
-- Yo, Ammar here!
-
-- i am adding this from 'feature'
+-i am adding this from 'feature'
 
 
