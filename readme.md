@@ -1,6 +1,6 @@
-## Welcome to Git!
+## Hey everyone! welcome to my Git guide. 
 
-- This is coming from 'div-ibrahim'
+- Yo, Ammar here!
 
 - i am adding this from 'feature'
 
